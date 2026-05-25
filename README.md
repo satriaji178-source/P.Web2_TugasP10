@@ -1,24 +1,21 @@
-# TUGAS PEMROGRAMAN WEB 2 - PERTEMUAN 9
+# TUGAS PEMROGRAMAN WEB 2 - PERTEMUAN 10
 
 ## Screenshot Hasil
 
-### 1. Daftar Anggota
-> Source: [`resources/views/anggota/index.blade.php`](resources/views/anggota/index.blade.php) <br>
-![Daftar Anggota](screenshot/daftar_anggota.PNG)
+## TUGAS 1
 
-### 2. Detail Anggota
-> Source: [`resources/views/anggota/show.blade.php`](resources/views/anggota/show.blade.php) <br>
-![Detail Anggota](screenshot/detail_anggota.PNG)
+> Source: (database/migrations/2026_05_25_144911_create_kategori_table.php) <br>
 
+> Source: (app/Models/Kategori.php) <br>
 
-### 3. Daftar Kategori
-> Source: [`resources/views/kategori/index.blade.php`](resources/views/kategori/index.blade.php)<br>
-![Daftar Kategori](screenshot/daftar_kategori.PNG)
+> Source: (databsae/seeders/KategoriSeeder.php)<br>
 
-### 4. Detail Kategori
-> Source: [`resources/views/kategori/show.blade.php`](resources/views/kategori/show.blade.phpou) <br>
-![Detail Kategori](screenshot/detail_kategori.PNG)
+![Migration,Models,Seeder](screenshot/migration_model_sedeer.jpg)
 
-### 5. Pencarian Kategori
-> Source: [`resources/views/kategori/search.blade.php`](resources/views/kategori/search.blade.php) <br>
-![Pencarian Kategori](screenshot/search_kategori.PNG)
+## TUGAS 2
+
+### 1. TESTING ROUTE
+![TESTING ROUTE](screenshot/route.png)
+
+### 2. MIGRATE AND SEEDER
+![MIGRATE AND SEEDER](screenshot/migrate,seeder.jpg)
