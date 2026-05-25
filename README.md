@@ -4,11 +4,11 @@
 
 ## TUGAS 1
 
-> Source: (database/migrations/2026_05_25_144911_create_kategori_table.php) <br>
+> Source: [`database/migrations/2026_05_25_144911_create_kategori_table.php`](database/migrations/2026_05_25_144911_create_kategori_table.php) <br>
 
-> Source: (app/Models/Kategori.php) <br>
+> Source: [`app/Models/Kategori.php`](app/Models/Kategori.php) <br>
 
-> Source: (databsae/seeders/KategoriSeeder.php)<br>
+> Source: [`database/seeders/KategoriSeeder.php`](database/seeders/KategoriSeeder.php)<br>
 
 ![Migration,Models,Seeder](screenshot/migration_model_sedeer.jpg)
 
