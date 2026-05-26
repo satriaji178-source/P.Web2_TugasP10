@@ -35,10 +35,10 @@ function renderDenganBootstrap($title, $content) {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <div class="navbar-nav ms-auto">
-                        <a class="nav-link" href="/buku">Master Buku</a>
-                        <a class="nav-link" href="/anggota">Master Anggota</a>
+                        <a class="nav-link" href="/buku"> Buku</a>
+                        <a class="nav-link" href="/anggota"> Anggota</a>
                         <a class="nav-link" href="/test-query">Query Lama</a>
-                        <a class="nav-link btn btn-warning btn-sm text-dark fw-bold px-3 ms-2 text-white" href="/test-accessor-scope">✨ TUGAS 2 TEST</a>
+                        <a class="nav-link btn btn-warning btn-sm text-dark fw-bold px-3 ms-2 text-white" href="/test-accessor-scope">TUGAS P10</a>
                     </div>
                 </div>
             </div>
